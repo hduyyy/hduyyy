@@ -2,8 +2,8 @@
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="150">
 
 
- <p align="left"><b>Hello World!, I'm HuuDuy, a Junior VietNamese Web Developer 👋🏼:</b></p><br>
-💻 Started working at <b>GLOBAL IT SOLUTIONS (GITS)</b> in 2025. <br>👨🏼‍🎓 Studied at the Faculty of Information Technology, Hanoi National University of Education (HNUE)<br>👨🏼‍💻 working as a web developer since 2021 <br>🎬 just started out with my youtube channel: <a href="https://www.youtube.com/@huuduy1807">NHDuyy</a>
+ <p align="left"><b>Hello World!, I'm HuuDuy, a Junior VietNamese Web Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Astonished%20Face.webp" alt="Astonished Face" width="25" height="25" />:</b></p><br>
+💻 Started working at <b>GLOBAL IT SOLUTIONS (GITS)</b> in 2025. <br>👨🏼‍🎓 Studied at the Faculty of Information Technology, Hanoi National University of Education (HNUE)<br>👨🏼‍💻 Working as a web developer since 2021 <br>🎬 Just started out with my youtube channel: <a href="https://www.youtube.com/@huuduy1807">NHDuyy</a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huu.duy.1508/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hdy_zzz/) 
@@ -25,3 +25,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+<p> 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20With%20Peeking%20Eye.webp" alt="Face With Peeking Eye" width="25" height="25" />
+ <b>Thank you for visiting and reaching the end of our page. </b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20Blowing%20A%20Kiss.webp" alt="Face Blowing A Kiss" width="25" height="25" /> 
+</p>
