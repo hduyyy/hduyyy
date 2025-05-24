@@ -1,9 +1,10 @@
 <!-- Animated Banner Top (GIF hoặc Lottie SVG) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Animated Banner" width="800"/>
+<p align="left">
+  <img src="https://github.com/hduyyy/hduyyy/blob/main/Animation%20-%201748062181443%20(1).gif" alt="Animated Banner" width="250px" />
+  
 </p>
 
-# 👋 Hi, I’m **Nguyen Van A**  
+# 👋 Hi, I’m **Nguyễn Hữu Duy**  
 ## Junior Backend Developer | NestJS ⚡️ TypeScript | PostgreSQL | Docker
 
 <p align="center">
