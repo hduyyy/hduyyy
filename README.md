@@ -1,64 +1,65 @@
-<!-- Banner Top -->
+<!-- Animated Banner Top (GIF hoặc Lottie SVG) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/your-banner.png" alt="Banner" width="800"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Animated Banner" width="800"/>
 </p>
 
-# 👋 Hi, I’m Nguyen Van A
-### Junior Backend Developer specializing in **NestJS**, **TypeScript** & **PostgreSQL**
+# 👋 Hi, I’m **Nguyen Van A**  
+## Junior Backend Developer | NestJS ⚡️ TypeScript | PostgreSQL | Docker
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&cacheSeconds=86400" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&cacheSeconds=86400" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🌱 I’m currently diving deeper into **Microservices** & **Docker**  
-- 💬 Ask me about **REST API**, **GraphQL**, or **Clean Architecture**  
-- ⚡ Fun fact: I love turning ☕️ into code and debugging at midnight  
+## ✨ About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+scalable+APIs...;Loving+NestJS+&+Microservices...;Debugging+with+a+smile...&font=Fira+Code&size=22&duration=4000" alt="Typing SVG"/>
+</p>
+- 🌱 Hiện đang khám phá **Microservices**, Kubernetes & Serverless  
+- 💬 Thích bàn về **Clean Architecture**, **DDD**, **Event-Driven**  
+- 🎧 Fun fact: Nghe nhạc synthwave khi code  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <!-- Animated gradient background badge -->
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&animation=glow" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&animation=glow" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&animation=glow" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&animation=glow" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&animation=glow" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&animation=glow" alt="Jest"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Replace `your-username` with your GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&count_private=true&line_height=28" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula&date_format=%5BY%20%j%5D" alt="GitHub Streak" width="450"/>
 </p>
 
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-| :------ | :---------- | :--- |
-| [nest-auth](https://github.com/your-username/nest-auth) | A full JWT-based auth module for NestJS, with refresh tokens & RBAC | NestJS, TypeScript |
-| [todo-api](https://github.com/your-username/todo-api) | Simple RESTful TODO app with Docker setup & CI/CD workflow | NestJS, PostgreSQL, Docker |
-| [graphql-server](https://github.com/your-username/graphql-server) | GraphQL API with DataLoader & Apollo Federation | NestJS, GraphQL |
+<!-- Activity Calendar -->
+<div align="center">
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
 
 ---
 
-## 📫 How to Reach Me
-
-- ✉️ Email: your.email@example.com  
-- 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: your-portfolio.com  
-
----
+## 🚧 Featured Projects
 
 <p align="center">
-  Made with ❤️ using NestJS & TypeScript
-</p>
+  <a href="https://github.com/your-username/nest-auth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=nest-auth&theme=dracula" alt="nest-auth"/>
+  </a>
+  <a href="https://github.com/your-username/todo-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=todo-api&theme=dr
