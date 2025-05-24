@@ -1,5 +1,5 @@
 <img src="https://github.com/hduyyy/hduyyy/blob/main/thubmail.png" alt="GitHub Banner" width="100%"/>
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="200">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="150">
 
 
  <p align="left"><b>Hello World!, I'm HuuDuy, a Junior VietNamese Web Developer 👋🏼:</b></p><br>
