@@ -1,3 +1,5 @@
+<img src="https://github.com/hduyyy/hduyyy/blob/main/thubmail.png" alt="GitHub Banner" width="100%"/>
+
 # Hello World!, I'm HuuDuy, a Junior VietNamese Web Developer 👋🏼:
 💻 Started working at <b>GLOBAL IT SOLUTIONS (GITS)</b> in 2025. <br>👨🏼‍🎓 Studied at the Faculty of Information Technology, Hanoi National University of Education (HNUE)<br>👨🏼‍💻 working as a web developer since 2021 <br>🎬 just started out with my youtube channel [NHDuyy](https://www.youtube.com/@huuduy1807)
 
