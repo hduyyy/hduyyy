@@ -1,3 +1,5 @@
+# Hello World!, I'm HuuDuy, a Junior VietNamese Web Developer 👋🏼:
+💻 Started working at <b>GLOBAL IT SOLUTIONS (GITS)</b> in 2025. <br>👨🏼‍🎓 Studied at the Faculty of Information Technology, Hanoi National University of Education (HNUE)<br>👨🏼‍💻 working as a web developer since 2021 <br>🎬 just started out with my youtube channel [NHDuyy](https://www.youtube.com/@huuduy1807)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huu.duy.1508/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hdy_zzz/) 
