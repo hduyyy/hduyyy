@@ -1,9 +1,23 @@
-<img src="https://github.com/hduyyy/hduyyy/blob/main/thubmail.png" alt="GitHub Banner" width="100%"/>
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="150">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=35&pause=1000&color=F74E1B&background=C95EFF00&width=800&lines=Hello%2C+I'm+HuuDuy.+Nice+to+meet+you+%3C3;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+</p>
+
+
+<img align="right" alt="coding-1" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="150">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+scalable+APIs...;Loving+NestJS+&+Microservices...;Debugging+with+a+smile...&font=Fira+Code&size=22&duration=4000" alt="Typing SVG"/>
+</p>
+
 
 
  <p align="left"><b>Hello World!, I'm HuuDuy, a Junior VietNamese Web Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Astonished%20Face.webp" alt="Astonished Face" width="35" height="35" />:</b></p><br>
-💻 Started working at <b>GLOBAL IT SOLUTIONS (GITS)</b> in 2025. <br>👨🏼‍🎓 Studied at the Faculty of Information Technology, Hanoi National University of Education (HNUE)<br>👨🏼‍💻 Working as a web developer since 2021 <br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Kissing%20Face.webp" alt="Kissing Face" width="35" height="35" />
+💻 Started working at <b>GLOBAL IT SOLUTIONS (GITS)</b> in 2025. <br>👨🏼‍🎓 Studied at the Faculty of Information Technology, Hanoi National University of Education (HNUE)<br>👨🏼‍💻 Working as a web developer since 2021  
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="150">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Kissing%20Face.webp" alt="Kissing Face" width="35" height="35" /> 
+
+<br> <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Typing SVG"/> 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huu.duy.1508/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hdy_zzz/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@huuduy1807) 
@@ -27,6 +41,8 @@
 </picture>
 
 <p> 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20With%20Peeking%20Eye.webp" alt="Face With Peeking Eye" width="35" height="35" />
- <b>Thank you for visiting and reaching the end of our page. </b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20Blowing%20A%20Kiss.webp" alt="Face Blowing A Kiss" width="35" height="35" /> 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20With%20Peeking%20Eye.webp" alt="Face With Peeking Eye" width="35" height="35" />  
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=30&pause=1000&color=27F757&background=C95EFF00&width=1000&lines=Thank+you+for+visiting+and+reaching+the+end+of+our+page.;We+hope+you+found+something+interesting+or+helpful+here.+;Feel+free+to+explore+the+project%2C+give+it+a+star+%E2%AD%90;+If+you+like+it%2C+or+fork+it+for+your+own+use.;Contributions%2C+feedback%2C+or+questions+are+always+welcome!;Stay+curious%2C+and+happy+coding!+%F0%9F%92%BB%F0%9F%9A%80)](https://git.io/typing-svg)
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20Blowing%20A%20Kiss.webp" alt="Face Blowing A Kiss" width="35" height="35" /> 
 </p>
