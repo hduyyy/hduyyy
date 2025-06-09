@@ -12,8 +12,6 @@
 
 
  <p align="left"><b>Hello World!, I'm HuuDuy, a Back-End Web Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Astonished%20Face.webp" alt="Astonished Face" width="35" height="35" />:</b></p><br>
-💻 Started working at <b>GLOBAL IT SOLUTIONS ( <img src="https://cdn-new.topcv.vn/unsafe/140x/https://static.topcv.vn/company_logos/cong-ty-tnhh-gits-641927006071c.jpg" alt="Kissing Face" width="35" height="20" />  )</b>  in 2025. 
-<br>
 <p>👨🏼‍🎓 Studied at the Faculty of Information Technology, Hanoi National University of Education <img src="https://inkythuatso.com/uploads/images/2021/12/hnue-logo-inkythuatso-14-13-51-28.jpg" width="40" height="40" /></p>
 <p>👨🏼‍💻 Working as a web developer since 2021  
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" height="150"></p>
